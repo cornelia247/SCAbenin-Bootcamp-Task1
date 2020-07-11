@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+*{
+    font-family: Montserrat;
+    font-weight:light;
+}
+div:nth-child(odd){
+    background-color: rgba(204,171,216,0.5) ;
+    padding:20px;
+}
+div:nth-child(even){
+    background-color:rgba(132,116,161,0.5) ;
+    padding:20px;
+}
